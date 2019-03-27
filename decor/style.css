@@ -1,0 +1,27 @@
+body{
+    background-color:;
+   font-family: 'Roboto';
+    font-weight:100;
+}
+
+
+#header{
+    height:500px;
+
+    background-image: url(http://www.sugardale.com/sites/default/files/stuffed%20crust%20pizza.jpg);
+    background-size:cover;
+}
+
+#title{
+color:white;
+text-shadow: 2px 2px  black;
+font-weight: 100;
+font-size:100px;
+letter-spacing:3px;
+
+}
+
+#titlemenu{
+    color:red;
+}
+
